@@ -1,8 +1,7 @@
 # Projeto - Tópicos Especiais em Métodos Quantitativos
 
 ## Objetivo Geral
-O projeto foi elaborado para a cadeira de Tópicos Especiais em Métodos Quantitativos, e consiste na coleta, tratamento, análise e produção de previsões sobre os ganhadores das partidas dos jogos da Copa do Mundo de Futebol Feminino - FIFA. O campeonato deu-se inicio em 1991 e conta como sua edição mais recente a de 2019.
-Ao todo foram 8 edições, em que se disputaram ao todo de 284 partidas, e conteve 36 seleções participantes.
+O projeto foi elaborado para a cadeira de Tópicos Especiais em Métodos Quantitativos, e consiste na coleta, tratamento, análise e produção de previsões sobre os ganhadores das partidas dos jogos da Copa do Mundo de Futebol Feminino - FIFA. O campeonato deu-se início  em 1991, ao todo já ocorrem 8 edições,  nas quais se disputaram 284 partidas, e tiveram 36 seleções distintas participantes.
 
 ## Como esta a organização:
 O projeto está organizado em quatro etapas, são elas:
