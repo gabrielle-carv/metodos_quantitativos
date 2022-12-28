@@ -1,7 +1,13 @@
 # Projeto - Tópicos Especiais em Métodos Quantitativos
 
+## Autoria 
+- Gabrielle Carvalho
+- Ingrid Sales Rabelo
+- Maria Isabel Souza
+- Laura Maranhão Fernandes
+
 ## Objetivo Geral
-O projeto foi elaborado para a cadeira de Tópicos Especiais em Métodos Quantitativos, e consiste na coleta, tratamento, análise e produção de previsões sobre os ganhadores das partidas dos jogos da Copa do Mundo de Futebol Feminino - FIFA. O campeonato deu-se início  em 1991. Desde então já ocorreram 8 edições,  nas quais se disputaram 284 partidas, com 36 seleções distintas participantes.
+O projeto foi elaborado para a cadeira de Tópicos Especiais em Métodos Quantitativos 2021.2 UFPE - PIMES, e consiste na coleta, tratamento, análise e produção de previsões sobre os ganhadores das partidas dos jogos da Copa do Mundo de Futebol Feminino - FIFA. O campeonato deu-se início  em 1991. Desde então já ocorreram 8 edições,  nas quais se disputaram 284 partidas, com 36 seleções distintas participantes.
 
 ## Organização do projeto
 O projeto está organizado em quatro etapas, são elas:
