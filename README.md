@@ -6,10 +6,10 @@ Ao todo foram 8 edições, em que se disputaram ao todo de 284 partidas, e conte
 
 ## Como esta a organização:
 O projeto está organizado em quatro etapas, são elas:
- - 1 - A coleta dos dados, o números de todas as partidas durante os anos, via web scraping, no site oficial da [FIFA](https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/); 
- - 2 - O tratamento dos dados, gerando percentuais de desempenho e a organização em uma nova tabela; 
- - 3 - A análise, que consiste na produção gráfica dos dados;
- - 4 - A previsão, utilizando-se do método de Deep Learning.
+ - A coleta dos dados, o números de todas as partidas durante os anos, via web scraping, no site oficial da [FIFA](https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/); 
+ - O tratamento dos dados, gerando percentuais de desempenho e a organização em uma nova tabela; 
+ - A análise, que consiste na produção gráfica dos dados;
+ - A previsão, utilizando-se do método de Deep Learning.
 
  No repósitorio apresentamos 3 pastas. Na primeria chamada de `código`, encontra-se os 4 códigos utilizados nesse trabalho para cada etapa, sendo elas a `coleta_dados_fifa`, `tratamento_tabela_fifa`, `visualizacao_dados_fifa`, e `deep_neural`. Já na pasta `auxiliar`, temos a versão mais atualizada do chromedriver, o qual é necessário ser instalado para a execução do web scraping. E por fim, a pasta `input`, em que se armazena os dados coletados e tratados.
 
