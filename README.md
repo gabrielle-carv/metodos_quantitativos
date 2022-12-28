@@ -2,7 +2,7 @@
 
 ## Autoria 
 - Gabrielle Carvalho
-- Ingrid Sales Rabelo
+- Ingrid de Sales Rabelo
 - Maria Isabel Souza
 - Laura Maranhão Fernandes
 
